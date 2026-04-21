@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Showcase Starter
 
 A React + Vite starter for building a personal site that highlights your projects, links, and current work.
@@ -19,3 +20,7 @@ A React + Vite starter for building a personal site that highlights your project
 - Replace the placeholder name, copy, and links in `src/App.jsx`
 - Swap project cards for your real projects
 - Update the page title and description in `index.html`
+=======
+# portfolio
+Website Portfolio
+>>>>>>> 0ec3cbc8aa8cca01c6102f6902c44b45cc03dcd7
